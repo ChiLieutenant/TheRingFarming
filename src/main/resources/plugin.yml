@@ -1,0 +1,8 @@
+name: TheRingFarming
+version: '${project.version}'
+main: com.chilieutenant.theringfarming.Main
+api-version: 1.19
+depend:
+  - hCore
+commands:
+  farm:
